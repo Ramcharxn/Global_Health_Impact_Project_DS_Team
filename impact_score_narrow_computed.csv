@@ -1,0 +1,2388 @@
+Country,Drug,Impact Score
+Afghanistan,3TC,35.66780209225043
+Albania,3TC,0.0
+Algeria,3TC,186.16683228380228
+American Samoa,3TC,0.0
+Andorra,3TC,0.17692688879003476
+Angola,3TC,0.0
+Anguilla,3TC,0.0
+Antigua and Barbuda,3TC,0.8265182264536824
+Argentina,3TC,3783.1752399712955
+Armenia,3TC,0.0
+Aruba,3TC,0.0
+Australia,3TC,28.294965713711832
+Austria,3TC,0.0
+Azerbaijan,3TC,25.93441380697453
+Bahamas,3TC,0.0
+Bahrain,3TC,38.0319422637266
+Bangladesh,3TC,0.0
+Barbados,3TC,17.25869139555985
+Belarus,3TC,131.77771577907288
+Belgium,3TC,0.0
+Belize,3TC,14.648975571892354
+Benin,3TC,400.55619302486167
+Bermuda,3TC,0.8773595101021402
+Bhutan,3TC,1.0187660146696866
+Bolivia,3TC,0.0
+"Bonaire, Saint Eustatius and Saba",3TC,0.0
+Bosnia and Herzegovina,3TC,0.0
+Botswana,3TC,2332.291708960954
+Brazil,3TC,26289.592343782457
+British Virgin Islands,3TC,0.0
+Brunei Darussalam,3TC,0.0
+Bulgaria,3TC,0.0
+Burkina Faso,3TC,0.0
+Burundi,3TC,2295.019424460172
+Cambodia,3TC,3983.284772430735
+Cameroon,3TC,38770.317383011155
+Canada,3TC,0.0
+Cape Verde,3TC,0.0
+Cayman Islands,3TC,0.0
+Central African Republic,3TC,0.0
+Chad,3TC,0.0
+Chile,3TC,123.01600595397838
+China,3TC,0.0
+"China, Hong Kong SAR",3TC,0.0
+"China, Macao SAR",3TC,0.0
+Colombia,3TC,0.0
+Comoros,3TC,0.0
+Congo,3TC,426.3333008211798
+Cook Islands,3TC,0.0
+Costa Rica,3TC,25.390574967487737
+Cote d'Ivoire,3TC,0.0
+Croatia,3TC,0.0
+Cuba,3TC,98.76440227568152
+Curacao,3TC,0.0
+Cyprus,3TC,0.0
+Czech Republic,3TC,0.0
+Democratic People's Republic of Korea,3TC,0.0
+Democratic Republic of the Congo,3TC,0.0
+Denmark,3TC,0.0
+Djibouti,3TC,117.42533331618861
+Dominica,3TC,0.0
+Dominican Republic,3TC,0.0
+Ecuador,3TC,119.06077104093912
+Egypt,3TC,94.48874702884274
+El Salvador,3TC,499.7751377878664
+Equatorial Guinea,3TC,0.0
+Eritrea,3TC,1196.8442446584243
+Estonia,3TC,0.0
+Ethiopia,3TC,0.0
+Fiji,3TC,31.61327875031922
+Finland,3TC,0.0
+France,3TC,0.0
+French Polynesia,3TC,0.0
+Gabon,3TC,222.11534679193605
+Gambia,3TC,0.0
+Georgia,3TC,0.0
+Germany,3TC,0.0
+Ghana,3TC,1223.3248678269026
+Greece,3TC,0.0
+Greenland,3TC,0.0
+Grenada,3TC,0.0
+Guam,3TC,0.0
+Guatemala,3TC,0.0
+Guinea,3TC,0.0
+Guinea-Bissau,3TC,164.99853569822392
+Guyana,3TC,0.0
+Haiti,3TC,0.0
+Honduras,3TC,635.1820353228295
+Hungary,3TC,0.0
+Iceland,3TC,0.0
+India,3TC,0.0
+Indonesia,3TC,503.6942488836783
+Iran,3TC,0.0
+Iraq,3TC,0.0
+Ireland,3TC,0.0
+Israel,3TC,0.0
+Italy,3TC,0.0
+Jamaica,3TC,0.0
+Japan,3TC,0.0
+Jordan,3TC,0.0
+Kazakhstan,3TC,281.3977990813621
+Kenya,3TC,84805.44955355556
+Kiribati,3TC,0.2079844447792558
+Kuwait,3TC,0.0
+Kyrgyzstan,3TC,152.22168870014215
+Lao People's Democratic Republic,3TC,0.0
+Latvia,3TC,0.0
+Lebanon,3TC,23.33645396551421
+Lesotho,3TC,2023.475108298835
+Liberia,3TC,157.97904603078848
+Libya,3TC,0.0
+Lithuania,3TC,0.0
+Luxembourg,3TC,0.0
+Madagascar,3TC,248.3944535940743
+Malawi,3TC,56656.199923396496
+Malaysia,3TC,305.10004188841623
+Maldives,3TC,0.06192275021170906
+Mali,3TC,624.6184305207744
+Malta,3TC,0.0
+Marshall Islands,3TC,1.2964608926296695
+Mauritania,3TC,0.0
+Mauritius,3TC,0.0
+Mexico,3TC,5098.529186516199
+Micronesia (Federated States of),3TC,0.0
+Monaco,3TC,0.0
+Mongolia,3TC,0.0
+Montenegro,3TC,0.0
+Montserrat,3TC,0.0
+Morocco,3TC,264.67700097487784
+Mozambique,3TC,0.0
+Myanmar,3TC,5782.9860526668235
+Namibia,3TC,7435.697663128915
+Nauru,3TC,0.0
+Nepal,3TC,171.4180881934528
+Netherlands,3TC,0.0
+New Caledonia,3TC,0.0
+New Zealand,3TC,0.0
+Nicaragua,3TC,0.0
+Niger,3TC,0.0
+Nigeria,3TC,11257.844956148043
+Niue,3TC,0.0
+Northern Mariana Islands,3TC,0.0
+Norway,3TC,0.0
+Oman,3TC,0.0
+Pakistan,3TC,0.0
+Palau,3TC,0.0
+Panama,3TC,0.0
+Papua New Guinea,3TC,0.0
+Paraguay,3TC,0.0
+Peru,3TC,0.0
+Philippines,3TC,1047.283332444546
+Poland,3TC,0.0
+Portugal,3TC,0.0
+Puerto Rico,3TC,26.543423520615466
+Qatar,3TC,0.0
+Republic of Korea,3TC,0.0
+Republic of Moldova,3TC,0.0
+Romania,3TC,0.0
+Russia,3TC,0.0
+Rwanda,3TC,4443.186966278944
+Saint Kitts and Nevis,3TC,0.0
+Saint Lucia,3TC,31.15926499373143
+Saint Vincent and the Grenadines,3TC,5.818612429774615
+Samoa,3TC,0.7221843130724568
+San Marino,3TC,0.0
+Sao Tome and Principe,3TC,0.5983099704208857
+Saudi Arabia,3TC,0.0
+Senegal,3TC,0.0
+Serbia,3TC,0.0
+Seychelles,3TC,8.48475438908313
+Sierra Leone,3TC,230.22349108616564
+Singapore,3TC,0.0
+Sint Maarten (Dutch part),3TC,0.0
+Slovakia,3TC,0.0
+Slovenia,3TC,0.0
+Solomon Islands,3TC,13.460479364885988
+Somalia,3TC,245.76110430081096
+South Africa,3TC,0.0
+South Sudan,3TC,0.0
+Spain,3TC,0.0
+Sri Lanka,3TC,20.849786995501642
+Sudan,3TC,102.12216893607439
+Suriname,3TC,0.0
+Swaziland,3TC,0.0
+Sweden,3TC,0.0
+Switzerland,3TC,0.0
+Syrian Arab Republic,3TC,0.0
+Tajikistan,3TC,85.59264437888069
+Tanzania,3TC,0.0
+Thailand,3TC,11191.263443880775
+The Former Yugoslav Republic of Macedonia,3TC,0.0
+Timor-Leste,3TC,4.048059617114699
+Togo,3TC,809.5066978512432
+Tokelau,3TC,0.0
+Tonga,3TC,0.12446619578676105
+Trinidad and Tobago,3TC,148.2949440505454
+Tunisia,3TC,48.4610807204634
+Turkey,3TC,0.0
+Turkmenistan,3TC,0.0
+Turks and Caicos Islands,3TC,0.0
+Tuvalu,3TC,0.0
+Uganda,3TC,59920.993283303986
+Ukraine,3TC,2939.4485706171513
+United Arab Emirates,3TC,27.43915659539329
+United Kingdom of Great Britain and Northern Ireland,3TC,0.0
+United States,3TC,754.5837707288065
+Uruguay,3TC,27.26669515486389
+US Virgin Islands,3TC,0.0
+Uzbekistan,3TC,142.33719498813682
+Vanuatu,3TC,16.675728640395427
+Venezuela,3TC,629.3543073742023
+Viet Nam,3TC,0.0
+Wallis and Futuna Islands,3TC,0.0
+West Bank and Gaza Strip,3TC,0.0
+Yemen,3TC,7.77494307031043
+Zambia,3TC,20236.19922102825
+Zimbabwe,3TC,52929.806501071726
+Afghanistan,ABC,3.483114137407181
+Albania,ABC,0.0
+Algeria,ABC,3.7142387496911136
+American Samoa,ABC,0.0
+Andorra,ABC,0.0007059244420592481
+Angola,ABC,0.0
+Anguilla,ABC,0.0
+Antigua and Barbuda,ABC,0.003297743049975442
+Argentina,ABC,122.25680156146848
+Armenia,ABC,0.0
+Aruba,ABC,0.0
+Australia,ABC,0.4196127554060121
+Austria,ABC,0.0
+Azerbaijan,ABC,0.4094426645812236
+Bahamas,ABC,0.0
+Bahrain,ABC,0.1517444737007262
+Bangladesh,ABC,0.0
+Barbados,ABC,0.06814839034800343
+Belarus,ABC,1.052728362080622
+Belgium,ABC,0.0
+Belize,ABC,0.6940941925645193
+Benin,ABC,30.52022017986378
+Bermuda,ABC,0.0035005957934931644
+Bhutan,ABC,0.004138644035132819
+Bolivia,ABC,0.0
+"Bonaire, Saint Eustatius and Saba",ABC,0.0
+Bosnia and Herzegovina,ABC,0.0
+Botswana,ABC,99.98276810372283
+Brazil,ABC,698.9335160699142
+British Virgin Islands,ABC,0.0
+Brunei Darussalam,ABC,0.0
+Bulgaria,ABC,0.0
+Burkina Faso,ABC,0.0
+Burundi,ABC,131.4326954119677
+Cambodia,ABC,14.901242806985325
+Cameroon,ABC,1603.0598104567177
+Canada,ABC,0.0
+Cape Verde,ABC,0.0
+Cayman Islands,ABC,0.0
+Central African Republic,ABC,0.0
+Chad,ABC,0.0
+Chile,ABC,0.4497354048210259
+China,ABC,0.0
+"China, Hong Kong SAR",ABC,0.0
+"China, Macao SAR",ABC,0.0
+Colombia,ABC,0.0
+Comoros,ABC,0.0
+Congo,ABC,1.7025242744088793
+Cook Islands,ABC,0.0
+Costa Rica,ABC,0.6071193775861429
+Cote d'Ivoire,ABC,0.0
+Croatia,ABC,0.0
+Cuba,ABC,2.409552464926348
+Curacao,ABC,0.0
+Cyprus,ABC,0.0
+Czech Republic,ABC,0.0
+Democratic People's Republic of Korea,ABC,0.0
+Democratic Republic of the Congo,ABC,0.0
+Denmark,ABC,0.0
+Djibouti,ABC,3.3282565781622977
+Dominica,ABC,0.0
+Dominican Republic,ABC,0.0
+Ecuador,ABC,1.079368574808053
+Egypt,ABC,7.876880301918941
+El Salvador,ABC,10.094741338134211
+Equatorial Guinea,ABC,0.0
+Eritrea,ABC,78.34329118158664
+Estonia,ABC,0.0
+Ethiopia,ABC,0.0
+Fiji,ABC,0.12625004116886523
+Finland,ABC,0.0
+France,ABC,0.0
+French Polynesia,ABC,0.0
+Gabon,ABC,4.185336439269986
+Gambia,ABC,0.0
+Georgia,ABC,0.0
+Germany,ABC,0.0
+Ghana,ABC,70.61127670725018
+Greece,ABC,0.0
+Greenland,ABC,0.0
+Grenada,ABC,0.0
+Guam,ABC,0.0
+Guatemala,ABC,0.0
+Guinea,ABC,0.0
+Guinea-Bissau,ABC,0.6589070375855349
+Guyana,ABC,0.0
+Haiti,ABC,0.0
+Honduras,ABC,47.378446994122285
+Hungary,ABC,0.0
+Iceland,ABC,0.0
+India,ABC,0.0
+Indonesia,ABC,27.39506295742503
+Iran,ABC,0.0
+Iraq,ABC,0.0
+Ireland,ABC,0.0
+Israel,ABC,0.0
+Italy,ABC,0.0
+Jamaica,ABC,0.0
+Japan,ABC,0.0
+Jordan,ABC,0.0
+Kazakhstan,ABC,17.92830017382076
+Kenya,ABC,10524.808297463764
+Kiribati,ABC,0.000829841660257964
+Kuwait,ABC,0.0
+Kyrgyzstan,ABC,2.8423850816911367
+Lao People's Democratic Republic,ABC,0.0
+Latvia,ABC,0.0
+Lebanon,ABC,0.09304675561372734
+Lesotho,ABC,189.06282560076966
+Liberia,ABC,4.514435488436035
+Libya,ABC,0.0
+Lithuania,ABC,0.0
+Luxembourg,ABC,0.0
+Madagascar,ABC,7.600489432391548
+Malawi,ABC,5958.308541504205
+Malaysia,ABC,7.629667750341537
+Maldives,ABC,0.00025155552610949764
+Mali,ABC,52.48142950869282
+Malta,ABC,0.0
+Marshall Islands,ABC,0.005172777515843495
+Mauritania,ABC,0.0
+Mauritius,ABC,0.0
+Mexico,ABC,167.67032003527416
+Micronesia (Federated States of),ABC,0.0
+Monaco,ABC,0.0
+Mongolia,ABC,0.0
+Montenegro,ABC,0.0
+Montserrat,ABC,0.0
+Morocco,ABC,15.119912630820448
+Mozambique,ABC,0.0
+Myanmar,ABC,118.41625922012965
+Namibia,ABC,632.2347536866222
+Nauru,ABC,0.0
+Nepal,ABC,8.601728017505073
+Netherlands,ABC,0.0
+New Caledonia,ABC,0.0
+New Zealand,ABC,0.0
+Nicaragua,ABC,0.0
+Niger,ABC,0.0
+Nigeria,ABC,45.09530482392298
+Niue,ABC,0.0
+Northern Mariana Islands,ABC,0.0
+Norway,ABC,0.0
+Oman,ABC,0.0
+Pakistan,ABC,0.0
+Palau,ABC,0.0
+Panama,ABC,0.0
+Papua New Guinea,ABC,0.0
+Paraguay,ABC,0.0
+Peru,ABC,0.0
+Philippines,ABC,38.71176355575397
+Poland,ABC,0.0
+Portugal,ABC,0.0
+Puerto Rico,ABC,0.10590618287178163
+Qatar,ABC,0.0
+Republic of Korea,ABC,0.0
+Republic of Moldova,ABC,0.0
+Romania,ABC,0.0
+Russia,ABC,0.0
+Rwanda,ABC,402.6075604747876
+Saint Kitts and Nevis,ABC,0.0
+Saint Lucia,ABC,0.11104012768108745
+Saint Vincent and the Grenadines,ABC,0.020735388567699433
+Samoa,ABC,0.0028814588995266953
+San Marino,ABC,0.0
+Sao Tome and Principe,ABC,0.002389297871642617
+Saudi Arabia,ABC,0.0
+Senegal,ABC,0.0
+Serbia,ABC,0.0
+Seychelles,ABC,0.03388311511671076
+Sierra Leone,ABC,7.360091407752516
+Singapore,ABC,0.0
+Sint Maarten (Dutch part),ABC,0.0
+Slovakia,ABC,0.0
+Slovenia,ABC,0.0
+Solomon Islands,ABC,0.053706259407430214
+Somalia,ABC,18.577646748674052
+South Africa,ABC,0.0
+South Sudan,ABC,0.0
+Spain,ABC,0.0
+Sri Lanka,ABC,1.4703481012481228
+Sudan,ABC,5.31461813913563
+Suriname,ABC,0.0
+Swaziland,ABC,0.0
+Sweden,ABC,0.0
+Switzerland,ABC,0.0
+Syrian Arab Republic,ABC,0.0
+Tajikistan,ABC,10.751314385157228
+Tanzania,ABC,0.0
+Thailand,ABC,54.65159636220199
+The Former Yugoslav Republic of Macedonia,ABC,0.0
+Timor-Leste,ABC,0.016444873059164377
+Togo,ABC,47.42562402814884
+Tokelau,ABC,0.0
+Tonga,ABC,0.0004966103819316991
+Trinidad and Tobago,ABC,3.6782946278431723
+Tunisia,ABC,0.19622561594309076
+Turkey,ABC,0.0
+Turkmenistan,ABC,0.0
+Turks and Caicos Islands,ABC,0.0
+Tuvalu,ABC,0.0
+Uganda,ABC,4624.63362628227
+Ukraine,ABC,42.008953801910806
+United Arab Emirates,ABC,0.1094800877506322
+United Kingdom of Great Britain and Northern Ireland,ABC,0.0
+United States,ABC,3.010730200375846
+Uruguay,ABC,0.4045810821939091
+US Virgin Islands,ABC,0.0
+Uzbekistan,ABC,1.4716053747188635
+Vanuatu,ABC,0.06653485242920068
+Venezuela,ABC,2.242786620978796
+Viet Nam,ABC,0.0
+Wallis and Futuna Islands,ABC,0.0
+West Bank and Gaza Strip,ABC,0.0
+Yemen,ABC,0.6161821777859663
+Zambia,ABC,2806.4428436531184
+Zimbabwe,ABC,5400.582304742979
+Afghanistan,AZT,15.831562541727992
+Albania,AZT,0.0
+Algeria,AZT,70.80180194083322
+American Samoa,AZT,0.0
+Andorra,AZT,0.06580248435073094
+Angola,AZT,0.0
+Anguilla,AZT,0.0
+Antigua and Barbuda,AZT,0.30739789205447005
+Argentina,AZT,1502.665106520955
+Armenia,AZT,0.0
+Aruba,AZT,0.0
+Australia,AZT,10.592121525648562
+Austria,AZT,0.0
+Azerbaijan,AZT,9.97188420664444
+Bahamas,AZT,0.0
+Bahrain,AZT,14.144804686000493
+Bangladesh,AZT,0.0
+Barbados,AZT,6.402401313872006
+Belarus,AZT,49.841856072243125
+Belgium,AZT,0.0
+Belize,AZT,6.0376972492098995
+Benin,AZT,171.85446252884861
+Bermuda,AZT,0.3263067351055617
+Bhutan,AZT,0.38054870006932323
+Bolivia,AZT,0.0
+"Bonaire, Saint Eustatius and Saba",AZT,0.0
+Bosnia and Herzegovina,AZT,0.0
+Botswana,AZT,947.0652811877633
+Brazil,AZT,10268.913287286703
+British Virgin Islands,AZT,0.0
+Brunei Darussalam,AZT,0.0
+Bulgaria,AZT,0.0
+Burkina Faso,AZT,0.0
+Burundi,AZT,943.381681590598
+Cambodia,AZT,1457.1680454525601
+Cameroon,AZT,15553.80069886066
+Canada,AZT,0.0
+Cape Verde,AZT,0.0
+Cayman Islands,AZT,0.0
+Central African Republic,AZT,0.0
+Chad,AZT,0.0
+Chile,AZT,44.71988757254269
+China,AZT,0.0
+"China, Hong Kong SAR",AZT,0.0
+"China, Macao SAR",AZT,0.0
+Colombia,AZT,0.0
+Comoros,AZT,0.0
+Congo,AZT,158.59537672826139
+Cook Islands,AZT,0.0
+Costa Rica,AZT,9.80478426817099
+Cote d'Ivoire,AZT,0.0
+Croatia,AZT,0.0
+Cuba,AZT,38.328842272605335
+Curacao,AZT,0.0
+Cyprus,AZT,0.0
+Czech Republic,AZT,0.0
+Democratic People's Republic of Korea,AZT,0.0
+Democratic Republic of the Congo,AZT,0.0
+Denmark,AZT,0.0
+Djibouti,AZT,45.9655155429406
+Dominica,AZT,0.0
+Dominican Republic,AZT,0.0
+Ecuador,AZT,44.61842724345691
+Egypt,AZT,41.1422216339715
+El Salvador,AZT,192.3145071821259
+Equatorial Guinea,AZT,0.0
+Eritrea,AZT,500.1387477306157
+Estonia,AZT,0.0
+Ethiopia,AZT,0.0
+Fiji,AZT,11.760212996178423
+Finland,AZT,0.0
+France,AZT,0.0
+French Polynesia,AZT,0.0
+Gabon,AZT,84.7253081645166
+Gambia,AZT,0.0
+Georgia,AZT,0.0
+Germany,AZT,0.0
+Ghana,AZT,506.36492376191427
+Greece,AZT,0.0
+Greenland,AZT,0.0
+Grenada,AZT,0.0
+Guam,AZT,0.0
+Guatemala,AZT,0.0
+Guinea,AZT,0.0
+Guinea-Bissau,AZT,61.37921874333516
+Guyana,AZT,0.0
+Haiti,AZT,0.0
+Honduras,AZT,276.8975054499505
+Hungary,AZT,0.0
+Iceland,AZT,0.0
+India,AZT,0.0
+Indonesia,AZT,207.9178826480373
+Iran,AZT,0.0
+Iraq,AZT,0.0
+Ireland,AZT,0.0
+Israel,AZT,0.0
+Italy,AZT,0.0
+Jamaica,AZT,0.0
+Japan,AZT,0.0
+Jordan,AZT,0.0
+Kazakhstan,AZT,122.12439429561626
+Kenya,AZT,40823.718243800235
+Kiribati,AZT,0.07735338176337889
+Kuwait,AZT,0.0
+Kyrgyzstan,AZT,59.183410499837535
+Lao People's Democratic Republic,AZT,0.0
+Latvia,AZT,0.0
+Lebanon,AZT,8.677814826518714
+Lesotho,AZT,908.2512457175012
+Liberia,AZT,61.81815621202959
+Libya,AZT,0.0
+Lithuania,AZT,0.0
+Luxembourg,AZT,0.0
+Madagascar,AZT,98.10129301432357
+Malawi,AZT,25994.623494892792
+Malaysia,AZT,120.35844002210982
+Maldives,AZT,0.023130553786115084
+Mali,AZT,271.1621402880872
+Malta,AZT,0.0
+Marshall Islands,AZT,0.48217853251146703
+Mauritania,AZT,0.0
+Mauritius,AZT,0.0
+Mexico,AZT,2031.4542033569903
+Micronesia (Federated States of),AZT,0.0
+Monaco,AZT,0.0
+Mongolia,AZT,0.0
+Montenegro,AZT,0.0
+Montserrat,AZT,0.0
+Morocco,AZT,112.80920478824369
+Mozambique,AZT,0.0
+Myanmar,AZT,2232.462209576711
+Namibia,AZT,3355.426981615367
+Nauru,AZT,0.0
+Nepal,AZT,70.79327177053904
+Netherlands,AZT,0.0
+New Caledonia,AZT,0.0
+New Zealand,AZT,0.0
+Nicaragua,AZT,0.0
+Niger,AZT,0.0
+Nigeria,AZT,4191.034169555685
+Niue,AZT,0.0
+Northern Mariana Islands,AZT,0.0
+Norway,AZT,0.0
+Oman,AZT,0.0
+Pakistan,AZT,0.0
+Palau,AZT,0.0
+Panama,AZT,0.0
+Papua New Guinea,AZT,0.0
+Paraguay,AZT,0.0
+Peru,AZT,0.0
+Philippines,AZT,416.0661096734373
+Poland,AZT,0.0
+Portugal,AZT,0.0
+Puerto Rico,AZT,9.872005452505865
+Qatar,AZT,0.0
+Republic of Korea,AZT,0.0
+Republic of Moldova,AZT,0.0
+Romania,AZT,0.0
+Russia,AZT,0.0
+Rwanda,AZT,1989.812853180587
+Saint Kitts and Nevis,AZT,0.0
+Saint Lucia,AZT,11.245659217499309
+Saint Vincent and the Grenadines,AZT,2.099989602357915
+Samoa,AZT,0.26859411977615877
+San Marino,AZT,0.0
+Sao Tome and Principe,AZT,0.22257045127932756
+Saudi Arabia,AZT,0.0
+Senegal,AZT,0.0
+Serbia,AZT,0.0
+Seychelles,AZT,3.156316469277687
+Sierra Leone,AZT,90.63988167558335
+Singapore,AZT,0.0
+Sint Maarten (Dutch part),AZT,0.0
+Slovakia,AZT,0.0
+Slovenia,AZT,0.0
+Solomon Islands,AZT,5.006208998635457
+Somalia,AZT,104.78600020997885
+South Africa,AZT,0.0
+South Sudan,AZT,0.0
+Spain,AZT,0.0
+Sri Lanka,AZT,8.949992723664167
+Sudan,AZT,41.92901008324416
+Suriname,AZT,0.0
+Swaziland,AZT,0.0
+Sweden,AZT,0.0
+Switzerland,AZT,0.0
+Syrian Arab Republic,AZT,0.0
+Tajikistan,AZT,42.5849022812717
+Tanzania,AZT,0.0
+Thailand,AZT,4124.469531094358
+The Former Yugoslav Republic of Macedonia,AZT,0.0
+Timor-Leste,AZT,1.5121075918454057
+Togo,AZT,335.8055731286313
+Tokelau,AZT,0.0
+Tonga,AZT,0.04629135207465797
+Trinidad and Tobago,AZT,57.78804918147822
+Tunisia,AZT,18.087962613571218
+Turkey,AZT,0.0
+Turkmenistan,AZT,0.0
+Turks and Caicos Islands,AZT,0.0
+Tuvalu,AZT,0.0
+Uganda,AZT,26052.85226713689
+Ukraine,AZT,1125.1312815441254
+United Arab Emirates,AZT,10.205145666741183
+United Kingdom of Great Britain and Northern Ireland,AZT,0.0
+United States,AZT,280.64409601201623
+Uruguay,AZT,10.352222506533316
+US Virgin Islands,AZT,0.0
+Uzbekistan,AZT,54.04201143550303
+Vanuatu,AZT,6.202021526523673
+Venezuela,AZT,227.1396346871286
+Viet Nam,AZT,0.0
+Wallis and Futuna Islands,AZT,0.0
+West Bank and Gaza Strip,AZT,0.0
+Yemen,AZT,3.3726329716906496
+Zambia,AZT,9888.275335433362
+Zimbabwe,AZT,24512.041364976983
+Afghanistan,ddl,0.1026422271952834
+Albania,ddl,0.0
+Algeria,ddl,0.0882670370730784
+American Samoa,ddl,0.0
+Andorra,ddl,0.0
+Angola,ddl,0.0
+Anguilla,ddl,0.0
+Antigua and Barbuda,ddl,0.0
+Argentina,ddl,3.1369011725742912
+Armenia,ddl,0.0
+Aruba,ddl,0.0
+Australia,ddl,0.009244046328681128
+Austria,ddl,0.0
+Azerbaijan,ddl,0.008937845529750117
+Bahamas,ddl,0.0
+Bahrain,ddl,0.0
+Bangladesh,ddl,0.0
+Barbados,ddl,0.0
+Belarus,ddl,0.014941540526451304
+Belgium,ddl,0.0
+Belize,ddl,0.018715637208775383
+Benin,ddl,0.8747829864629779
+Bermuda,ddl,0.0
+Bhutan,ddl,0.0
+Bolivia,ddl,0.0
+"Bonaire, Saint Eustatius and Saba",ddl,0.0
+Bosnia and Herzegovina,ddl,0.0
+Botswana,ddl,2.6554879250654078
+Brazil,ddl,17.602416567409946
+British Virgin Islands,ddl,0.0
+Brunei Darussalam,ddl,0.0
+Bulgaria,ddl,0.0
+Burkina Faso,ddl,0.0
+Burundi,ddl,3.7270118851680665
+Cambodia,ddl,0.0
+Cameroon,ddl,44.307641955342746
+Canada,ddl,0.0
+Cape Verde,ddl,0.0
+Cayman Islands,ddl,0.0
+Central African Republic,ddl,0.0
+Chad,ddl,0.0
+Chile,ddl,0.0
+China,ddl,0.0
+"China, Hong Kong SAR",ddl,0.0
+"China, Macao SAR",ddl,0.0
+Colombia,ddl,0.0
+Comoros,ddl,0.0
+Congo,ddl,0.0
+Cook Islands,ddl,0.0
+Costa Rica,ddl,0.015238392599341405
+Cote d'Ivoire,ddl,0.0
+Croatia,ddl,0.0
+Cuba,ddl,0.05924748555874182
+Curacao,ddl,0.0
+Cyprus,ddl,0.0
+Czech Republic,ddl,0.0
+Democratic People's Republic of Korea,ddl,0.0
+Democratic Republic of the Congo,ddl,0.0
+Denmark,ddl,0.0
+Djibouti,ddl,0.08786720272937955
+Dominica,ddl,0.0
+Dominican Republic,ddl,0.0
+Ecuador,ddl,0.017953541196100146
+Egypt,ddl,0.22817247050576644
+El Salvador,ddl,0.2401410698203281
+Equatorial Guinea,ddl,0.0
+Eritrea,ddl,2.2339631704039333
+Estonia,ddl,0.0
+Ethiopia,ddl,0.0
+Fiji,ddl,0.0
+Finland,ddl,0.0
+France,ddl,0.0
+French Polynesia,ddl,0.0
+Gabon,ddl,0.09975632647038976
+Gambia,ddl,0.0
+Georgia,ddl,0.0
+Germany,ddl,0.0
+Ghana,ddl,2.0014668424109554
+Greece,ddl,0.0
+Greenland,ddl,0.0
+Grenada,ddl,0.0
+Guam,ddl,0.0
+Guatemala,ddl,0.0
+Guinea,ddl,0.0
+Guinea-Bissau,ddl,0.0
+Guyana,ddl,0.0
+Haiti,ddl,0.0
+Honduras,ddl,1.3254874778747763
+Hungary,ddl,0.0
+Iceland,ddl,0.0
+India,ddl,0.0
+Indonesia,ddl,0.7763199485072901
+Iran,ddl,0.0
+Iraq,ddl,0.0
+Ireland,ddl,0.0
+Israel,ddl,0.0
+Italy,ddl,0.0
+Jamaica,ddl,0.0
+Japan,ddl,0.0
+Jordan,ddl,0.0
+Kazakhstan,ddl,0.48877701974073423
+Kenya,ddl,301.17371194845384
+Kiribati,ddl,0.0
+Kuwait,ddl,0.0
+Kyrgyzstan,ddl,0.06466557263982978
+Lao People's Democratic Republic,ddl,0.0
+Latvia,ddl,0.0
+Lebanon,ddl,0.0
+Lesotho,ddl,5.409722590575165
+Liberia,ddl,0.11929146169069771
+Libya,ddl,0.0
+Lithuania,ddl,0.0
+Luxembourg,ddl,0.0
+Madagascar,ddl,0.203174716169082
+Malawi,ddl,170.90419784458766
+Malaysia,ddl,0.18619837461151523
+Maldives,ddl,0.0
+Mali,ddl,1.5256586861447643
+Malta,ddl,0.0
+Marshall Islands,ddl,0.0
+Mauritania,ddl,0.0
+Mauritius,ddl,0.0
+Mexico,ddl,4.308073495802167
+Micronesia (Federated States of),ddl,0.0
+Monaco,ddl,0.0
+Mongolia,ddl,0.0
+Montenegro,ddl,0.0
+Montserrat,ddl,0.0
+Morocco,ddl,0.40937437019081513
+Mozambique,ddl,0.0
+Myanmar,ddl,2.8230911247904573
+Namibia,ddl,17.572111045983085
+Nauru,ddl,0.0
+Nepal,ddl,0.23610709593489257
+Netherlands,ddl,0.0
+New Caledonia,ddl,0.0
+New Zealand,ddl,0.0
+Nicaragua,ddl,0.0
+Niger,ddl,0.0
+Nigeria,ddl,0.0
+Niue,ddl,0.0
+Northern Mariana Islands,ddl,0.0
+Norway,ddl,0.0
+Oman,ddl,0.0
+Pakistan,ddl,0.0
+Palau,ddl,0.0
+Panama,ddl,0.0
+Papua New Guinea,ddl,0.0
+Paraguay,ddl,0.0
+Peru,ddl,0.0
+Philippines,ddl,1.0615618553012103
+Poland,ddl,0.0
+Portugal,ddl,0.0
+Puerto Rico,ddl,0.0
+Qatar,ddl,0.0
+Republic of Korea,ddl,0.0
+Republic of Moldova,ddl,0.0
+Romania,ddl,0.0
+Russia,ddl,0.0
+Rwanda,ddl,11.389950988991169
+Saint Kitts and Nevis,ddl,0.0
+Saint Lucia,ddl,0.0
+Saint Vincent and the Grenadines,ddl,0.0
+Samoa,ddl,0.0
+San Marino,ddl,0.0
+Sao Tome and Principe,ddl,0.0
+Saudi Arabia,ddl,0.0
+Senegal,ddl,0.0
+Serbia,ddl,0.0
+Seychelles,ddl,0.0
+Sierra Leone,ddl,0.19761623337091047
+Singapore,ddl,0.0
+Sint Maarten (Dutch part),ddl,0.0
+Slovakia,ddl,0.0
+Slovenia,ddl,0.0
+Solomon Islands,ddl,0.0
+Somalia,ddl,0.5428376855092849
+South Africa,ddl,0.0
+South Sudan,ddl,0.0
+Spain,ddl,0.0
+Sri Lanka,ddl,0.04166958095076921
+Sudan,ddl,0.1505051870538212
+Suriname,ddl,0.0
+Swaziland,ddl,0.0
+Sweden,ddl,0.0
+Switzerland,ddl,0.0
+Syrian Arab Republic,ddl,0.0
+Tajikistan,ddl,0.3028515823237042
+Tanzania,ddl,0.0
+Thailand,ddl,0.3517207129929765
+The Former Yugoslav Republic of Macedonia,ddl,0.0
+Timor-Leste,ddl,0.0
+Togo,ddl,1.3405750923330373
+Tokelau,ddl,0.0
+Tonga,ddl,0.0
+Trinidad and Tobago,ddl,0.09050726380303076
+Tunisia,ddl,0.0
+Turkey,ddl,0.0
+Turkmenistan,ddl,0.0
+Turks and Caicos Islands,ddl,0.0
+Tuvalu,ddl,0.0
+Uganda,ddl,130.62012270390943
+Ukraine,ddl,0.8885457267743976
+United Arab Emirates,ddl,0.0
+United Kingdom of Great Britain and Northern Ireland,ddl,0.0
+United States,ddl,0.0
+Uruguay,ddl,0.008726192985787383
+US Virgin Islands,ddl,0.0
+Uzbekistan,ddl,0.02605899020919822
+Vanuatu,ddl,0.0
+Venezuela,ddl,0.0
+Viet Nam,ddl,0.0
+Wallis and Futuna Islands,ddl,0.0
+West Bank and Gaza Strip,ddl,0.0
+Yemen,ddl,0.017737992907431135
+Zambia,ddl,81.23781156083686
+Zimbabwe,ddl,152.77043589336657
+Afghanistan,d4T,0.523835752119729
+Albania,d4T,0.0
+Algeria,d4T,0.45592540352179795
+American Samoa,d4T,0.0
+Andorra,d4T,0.0
+Angola,d4T,0.0
+Anguilla,d4T,0.0
+Antigua and Barbuda,d4T,0.0
+Argentina,d4T,16.203024145127294
+Armenia,d4T,0.0
+Aruba,d4T,0.0
+Australia,d4T,0.04771365791644804
+Austria,d4T,0.0
+Azerbaijan,d4T,0.04608649812162042
+Bahamas,d4T,0.0
+Bahrain,d4T,0.0
+Bangladesh,d4T,0.0
+Barbados,d4T,0.0
+Belarus,d4T,0.07716629599079206
+Belgium,d4T,0.0
+Belize,d4T,0.09646223020534547
+Benin,d4T,4.48226404286152
+Bermuda,d4T,0.0
+Bhutan,d4T,0.0
+Bolivia,d4T,0.0
+"Bonaire, Saint Eustatius and Saba",d4T,0.0
+Bosnia and Herzegovina,d4T,0.0
+Botswana,d4T,13.71638205982078
+Brazil,d4T,90.67223413342224
+British Virgin Islands,d4T,0.0
+Brunei Darussalam,d4T,0.0
+Bulgaria,d4T,0.0
+Burkina Faso,d4T,0.0
+Burundi,d4T,19.06949260857954
+Cambodia,d4T,0.0
+Cameroon,d4T,226.34891602042396
+Canada,d4T,0.0
+Cape Verde,d4T,0.0
+Cayman Islands,d4T,0.0
+Central African Republic,d4T,0.0
+Chad,d4T,0.0
+Chile,d4T,0.0
+China,d4T,0.0
+"China, Hong Kong SAR",d4T,0.0
+"China, Macao SAR",d4T,0.0
+Colombia,d4T,0.0
+Comoros,d4T,0.0
+Congo,d4T,0.0
+Cook Islands,d4T,0.0
+Costa Rica,d4T,0.07823579622914552
+Cote d'Ivoire,d4T,0.0
+Croatia,d4T,0.0
+Cuba,d4T,0.3060308203010941
+Curacao,d4T,0.0
+Cyprus,d4T,0.0
+Czech Republic,d4T,0.0
+Democratic People's Republic of Korea,d4T,0.0
+Democratic Republic of the Congo,d4T,0.0
+Denmark,d4T,0.0
+Djibouti,d4T,0.44824096249593
+Dominica,d4T,0.0
+Dominican Republic,d4T,0.0
+Ecuador,d4T,0.09273536062732264
+Egypt,d4T,1.1671268702988125
+El Salvador,d4T,1.2373534003611577
+Equatorial Guinea,d4T,0.0
+Eritrea,d4T,11.439983684958419
+Estonia,d4T,0.0
+Ethiopia,d4T,0.0
+Fiji,d4T,0.0
+Finland,d4T,0.0
+France,d4T,0.0
+French Polynesia,d4T,0.0
+Gabon,d4T,0.5120879912478056
+Gambia,d4T,0.0
+Georgia,d4T,0.0
+Germany,d4T,0.0
+Ghana,d4T,10.237719417298898
+Greece,d4T,0.0
+Greenland,d4T,0.0
+Grenada,d4T,0.0
+Guam,d4T,0.0
+Guatemala,d4T,0.0
+Guinea,d4T,0.0
+Guinea-Bissau,d4T,0.0
+Guyana,d4T,0.0
+Haiti,d4T,0.0
+Honduras,d4T,6.825782272448619
+Hungary,d4T,0.0
+Iceland,d4T,0.0
+India,d4T,0.0
+Indonesia,d4T,3.9647643424454606
+Iran,d4T,0.0
+Iraq,d4T,0.0
+Ireland,d4T,0.0
+Israel,d4T,0.0
+Italy,d4T,0.0
+Jamaica,d4T,0.0
+Japan,d4T,0.0
+Jordan,d4T,0.0
+Kazakhstan,d4T,2.5246781510630822
+Kenya,d4T,1550.7124745300916
+Kiribati,d4T,0.0
+Kuwait,d4T,0.0
+Kyrgyzstan,d4T,0.334016845669954
+Lao People's Democratic Republic,d4T,0.0
+Latvia,d4T,0.0
+Lebanon,d4T,0.0
+Lesotho,d4T,27.786130134143267
+Liberia,d4T,0.6087191559331674
+Libya,d4T,0.0
+Lithuania,d4T,0.0
+Luxembourg,d4T,0.0
+Madagascar,d4T,1.0354399518969701
+Malawi,d4T,878.4506379595465
+Malaysia,d4T,0.9617697828643934
+Maldives,d4T,0.0
+Mali,d4T,7.79947458721187
+Malta,d4T,0.0
+Marshall Islands,d4T,0.0
+Mauritania,d4T,0.0
+Mauritius,d4T,0.0
+Mexico,d4T,22.25247625961423
+Micronesia (Federated States of),d4T,0.0
+Monaco,d4T,0.0
+Mongolia,d4T,0.0
+Montenegro,d4T,0.0
+Montserrat,d4T,0.0
+Morocco,d4T,2.1145399359695527
+Mozambique,d4T,0.0
+Myanmar,d4T,14.539996423218918
+Namibia,d4T,90.76516086901967
+Nauru,d4T,0.0
+Nepal,d4T,1.2130722853603122
+Netherlands,d4T,0.0
+New Caledonia,d4T,0.0
+New Zealand,d4T,0.0
+Nicaragua,d4T,0.0
+Niger,d4T,0.0
+Nigeria,d4T,0.0
+Niue,d4T,0.0
+Northern Mariana Islands,d4T,0.0
+Norway,d4T,0.0
+Oman,d4T,0.0
+Pakistan,d4T,0.0
+Palau,d4T,0.0
+Panama,d4T,0.0
+Papua New Guinea,d4T,0.0
+Paraguay,d4T,0.0
+Peru,d4T,0.0
+Philippines,d4T,5.416926135126651
+Poland,d4T,0.0
+Portugal,d4T,0.0
+Puerto Rico,d4T,0.0
+Qatar,d4T,0.0
+Republic of Korea,d4T,0.0
+Republic of Moldova,d4T,0.0
+Romania,d4T,0.0
+Russia,d4T,0.0
+Rwanda,d4T,58.654138075576306
+Saint Kitts and Nevis,d4T,0.0
+Saint Lucia,d4T,0.0
+Saint Vincent and the Grenadines,d4T,0.0
+Samoa,d4T,0.0
+San Marino,d4T,0.0
+Sao Tome and Principe,d4T,0.0
+Saudi Arabia,d4T,0.0
+Senegal,d4T,0.0
+Serbia,d4T,0.0
+Seychelles,d4T,0.0
+Sierra Leone,d4T,1.0088222657490873
+Singapore,d4T,0.0
+Sint Maarten (Dutch part),d4T,0.0
+Slovakia,d4T,0.0
+Slovenia,d4T,0.0
+Solomon Islands,d4T,0.0
+Somalia,d4T,2.7676375000616247
+South Africa,d4T,0.0
+South Sudan,d4T,0.0
+Spain,d4T,0.0
+Sri Lanka,d4T,0.21372258775361377
+Sudan,d4T,0.7681049019743188
+Suriname,d4T,0.0
+Swaziland,d4T,0.0
+Sweden,d4T,0.0
+Switzerland,d4T,0.0
+Syrian Arab Republic,d4T,0.0
+Tajikistan,d4T,1.5643181696903679
+Tanzania,d4T,0.0
+Thailand,d4T,1.8167417114673596
+The Former Yugoslav Republic of Macedonia,d4T,0.0
+Timor-Leste,d4T,0.0
+Togo,d4T,6.864021867698557
+Tokelau,d4T,0.0
+Tonga,d4T,0.0
+Trinidad and Tobago,d4T,0.4674968384504252
+Tunisia,d4T,0.0
+Turkey,d4T,0.0
+Turkmenistan,d4T,0.0
+Turks and Caicos Islands,d4T,0.0
+Tuvalu,d4T,0.0
+Uganda,d4T,671.5826540824827
+Ukraine,d4T,4.576349511256083
+United Arab Emirates,d4T,0.0
+United Kingdom of Great Britain and Northern Ireland,d4T,0.0
+United States,d4T,0.0
+Uruguay,d4T,0.045073372690195845
+US Virgin Islands,d4T,0.0
+Uzbekistan,d4T,0.13460240674741072
+Vanuatu,d4T,0.0
+Venezuela,d4T,0.0
+Viet Nam,d4T,0.0
+Wallis and Futuna Islands,d4T,0.0
+West Bank and Gaza Strip,d4T,0.0
+Yemen,d4T,0.09079632593271852
+Zambia,d4T,417.56380646044227
+Zimbabwe,d4T,787.3938135970714
+Afghanistan,EFV,21.36337968173854
+Albania,EFV,0.0
+Algeria,EFV,140.01489989698123
+American Samoa,EFV,0.0
+Andorra,EFV,0.1368831362443209
+Angola,EFV,0.0
+Anguilla,EFV,0.0
+Antigua and Barbuda,EFV,0.6394528710349775
+Argentina,EFV,2719.58664213522
+Armenia,EFV,0.0
+Aruba,EFV,0.0
+Australia,EFV,21.621489553384897
+Austria,EFV,0.0
+Azerbaijan,EFV,19.374910971995803
+Bahamas,EFV,0.0
+Bahrain,EFV,29.42419645834553
+Bangladesh,EFV,0.0
+Barbados,EFV,13.380694001265542
+Belarus,EFV,100.31036687589578
+Belgium,EFV,0.0
+Belize,EFV,10.048167578218216
+Benin,EFV,255.99803651531954
+Bermuda,EFV,0.6787872786204002
+Bhutan,EFV,0.7853120814020472
+Bolivia,EFV,0.0
+"Bonaire, Saint Eustatius and Saba",EFV,0.0
+Bosnia and Herzegovina,EFV,0.0
+Botswana,EFV,1630.7409640758383
+Brazil,EFV,19232.999688166947
+British Virgin Islands,EFV,0.0
+Brunei Darussalam,EFV,0.0
+Bulgaria,EFV,0.0
+Burkina Faso,EFV,0.0
+Burundi,EFV,1557.4700862137906
+Cambodia,EFV,3121.96780000568
+Cameroon,EFV,27271.737869830453
+Canada,EFV,0.0
+Cape Verde,EFV,0.0
+Cayman Islands,EFV,0.0
+Central African Republic,EFV,0.0
+Chad,EFV,0.0
+Chile,EFV,96.85799868480278
+China,EFV,0.0
+"China, Hong Kong SAR",EFV,0.0
+"China, Macao SAR",EFV,0.0
+Colombia,EFV,0.0
+Comoros,EFV,0.0
+Congo,EFV,329.7830877201751
+Cook Islands,EFV,0.0
+Costa Rica,EFV,18.7761515058618
+Cote d'Ivoire,EFV,0.0
+Croatia,EFV,0.0
+Cuba,EFV,72.84099245922853
+Curacao,EFV,0.0
+Cyprus,EFV,0.0
+Czech Republic,EFV,0.0
+Democratic People's Republic of Korea,EFV,0.0
+Democratic Republic of the Congo,EFV,0.0
+Denmark,EFV,0.0
+Djibouti,EFV,85.33942996390248
+Dominica,EFV,0.0
+Dominican Republic,EFV,0.0
+Ecuador,EFV,91.28444324964468
+Egypt,EFV,58.877129410330014
+El Salvador,EFV,372.04198861386624
+Equatorial Guinea,EFV,0.0
+Eritrea,EFV,793.6850756322121
+Estonia,EFV,0.0
+Ethiopia,EFV,0.0
+Fiji,EFV,24.45372522242068
+Finland,EFV,0.0
+France,EFV,0.0
+French Polynesia,EFV,0.0
+Gabon,EFV,166.57920478315984
+Gambia,EFV,0.0
+Georgia,EFV,0.0
+Germany,EFV,0.0
+Ghana,EFV,823.8520587687998
+Greece,EFV,0.0
+Greenland,EFV,0.0
+Grenada,EFV,0.0
+Guam,EFV,0.0
+Guatemala,EFV,0.0
+Guinea,EFV,0.0
+Guinea-Bissau,EFV,127.63189379543914
+Guyana,EFV,0.0
+Haiti,EFV,0.0
+Honduras,EFV,401.763339207228
+Hungary,EFV,0.0
+Iceland,EFV,0.0
+India,EFV,0.0
+Indonesia,EFV,340.62967778254597
+Iran,EFV,0.0
+Iraq,EFV,0.0
+Ireland,EFV,0.0
+Israel,EFV,0.0
+Italy,EFV,0.0
+Jamaica,EFV,0.0
+Japan,EFV,0.0
+Jordan,EFV,0.0
+Kazakhstan,EFV,181.0783042455338
+Kenya,EFV,45146.192211053225
+Kiribati,EFV,0.16091145492986153
+Kuwait,EFV,0.0
+Kyrgyzstan,EFV,112.47087749234194
+Lao People's Democratic Republic,EFV,0.0
+Latvia,EFV,0.0
+Lebanon,EFV,18.057240609848314
+Lesotho,EFV,1212.049977515258
+Liberia,EFV,114.84137866634562
+Libya,EFV,0.0
+Lithuania,EFV,0.0
+Luxembourg,EFV,0.0
+Madagascar,EFV,178.62655899200377
+Malawi,EFV,32696.58195408808
+Malaysia,EFV,221.6896137834326
+Maldives,EFV,0.04773292704572908
+Mali,EFV,390.106499936494
+Malta,EFV,0.0
+Marshall Islands,EFV,1.0030337062664518
+Mauritania,EFV,0.0
+Mauritius,EFV,0.0
+Mexico,EFV,3653.4548194908766
+Micronesia (Federated States of),EFV,0.0
+Monaco,EFV,0.0
+Mongolia,EFV,0.0
+Montenegro,EFV,0.0
+Montserrat,EFV,0.0
+Morocco,EFV,174.54398473126864
+Mozambique,EFV,0.0
+Myanmar,EFV,4291.795699768729
+Namibia,EFV,4500.157257989836
+Nauru,EFV,0.0
+Nepal,EFV,116.79530105869912
+Netherlands,EFV,0.0
+New Caledonia,EFV,0.0
+New Zealand,EFV,0.0
+Nicaragua,EFV,0.0
+Niger,EFV,0.0
+Nigeria,EFV,8702.90405596202
+Niue,EFV,0.0
+Northern Mariana Islands,EFV,0.0
+Norway,EFV,0.0
+Oman,EFV,0.0
+Pakistan,EFV,0.0
+Palau,EFV,0.0
+Panama,EFV,0.0
+Papua New Guinea,EFV,0.0
+Paraguay,EFV,0.0
+Peru,EFV,0.0
+Philippines,EFV,745.7681278362699
+Poland,EFV,0.0
+Portugal,EFV,0.0
+Puerto Rico,EFV,20.53586700704909
+Qatar,EFV,0.0
+Republic of Korea,EFV,0.0
+Republic of Moldova,EFV,0.0
+Romania,EFV,0.0
+Russia,EFV,0.0
+Rwanda,EFV,2686.5387729052927
+Saint Kitts and Nevis,EFV,0.0
+Saint Lucia,EFV,24.657812406472228
+Saint Vincent and the Grenadines,EFV,4.604545511205542
+Samoa,EFV,0.5587327872877643
+San Marino,EFV,0.0
+Sao Tome and Principe,EFV,0.46281280181283935
+Saudi Arabia,EFV,0.0
+Senegal,EFV,0.0
+Serbia,EFV,0.0
+Seychelles,EFV,6.5632417068747415
+Sierra Leone,EFV,166.01076261751226
+Singapore,EFV,0.0
+Sint Maarten (Dutch part),EFV,0.0
+Slovakia,EFV,0.0
+Slovenia,EFV,0.0
+Solomon Islands,EFV,10.41397745372741
+Somalia,EFV,157.37946079346045
+South Africa,EFV,0.0
+South Sudan,EFV,0.0
+Spain,EFV,0.0
+Sri Lanka,EFV,13.393431531916631
+Sudan,EFV,69.54352699536238
+Suriname,EFV,0.0
+Swaziland,EFV,0.0
+Sweden,EFV,0.0
+Switzerland,EFV,0.0
+Syrian Arab Republic,EFV,0.0
+Tajikistan,EFV,43.64596991128345
+Tanzania,EFV,0.0
+Thailand,EFV,8716.229597800802
+The Former Yugoslav Republic of Macedonia,EFV,0.0
+Timor-Leste,EFV,3.1204320499311513
+Togo,EFV,543.995870469678
+Tokelau,EFV,0.0
+Tonga,EFV,0.0962958392147522
+Trinidad and Tobago,EFV,108.95998510081068
+Tunisia,EFV,37.380921735212965
+Turkey,EFV,0.0
+Turkmenistan,EFV,0.0
+Turks and Caicos Islands,EFV,0.0
+Tuvalu,EFV,0.0
+Uganda,EFV,37853.50329702795
+Ukraine,EFV,2206.0828207293953
+United Arab Emirates,EFV,21.22886937289561
+United Kingdom of Great Britain and Northern Ireland,EFV,0.0
+United States,EFV,583.7992958718796
+Uruguay,EFV,20.611131186572123
+US Virgin Islands,EFV,0.0
+Uzbekistan,EFV,107.86834181800964
+Vanuatu,EFV,12.901521363241976
+Venezuela,EFV,498.0380779700782
+Viet Nam,EFV,0.0
+Wallis and Futuna Islands,EFV,0.0
+West Bank and Gaza Strip,EFV,0.0
+Yemen,EFV,4.887400067958228
+Zambia,EFV,10325.478872217302
+Zimbabwe,EFV,30429.66555808107
+Afghanistan,FTC,7.057697954414172
+Albania,FTC,0.0
+Algeria,FTC,49.13222219757404
+American Samoa,FTC,0.0
+Andorra,FTC,0.04982572069509053
+Angola,FTC,0.0
+Anguilla,FTC,0.0
+Antigua and Barbuda,FTC,0.2327620554587082
+Argentina,FTC,953.9801014606982
+Armenia,FTC,0.0
+Aruba,FTC,0.0
+Australia,FTC,7.615524869971142
+Austria,FTC,0.0
+Azerbaijan,FTC,7.002043411430096
+Bahamas,FTC,0.0
+Bahrain,FTC,10.710463207054273
+Bangladesh,FTC,0.0
+Barbados,FTC,4.8590119226218835
+Belarus,FTC,36.60652842796935
+Belgium,FTC,0.0
+Belize,FTC,3.4928064632627343
+Benin,FTC,85.84425353977964
+Bermuda,FTC,0.24707985427477266
+Bhutan,FTC,0.28700684188035697
+Bolivia,FTC,0.0
+"Bonaire, Saint Eustatius and Saba",FTC,0.0
+Bosnia and Herzegovina,FTC,0.0
+Botswana,FTC,562.1364243134695
+Brazil,FTC,6809.368920392517
+British Virgin Islands,FTC,0.0
+Brunei Darussalam,FTC,0.0
+Bulgaria,FTC,0.0
+Burkina Faso,FTC,0.0
+Burundi,FTC,533.3556854430636
+Cambodia,FTC,1118.9574626577255
+Cameroon,FTC,9613.158080741907
+Canada,FTC,0.0
+Cape Verde,FTC,0.0
+Cayman Islands,FTC,0.0
+Central African Republic,FTC,0.0
+Chad,FTC,0.0
+Chile,FTC,34.50956765471491
+China,FTC,0.0
+"China, Hong Kong SAR",FTC,0.0
+"China, Macao SAR",FTC,0.0
+Colombia,FTC,0.0
+Comoros,FTC,0.0
+Congo,FTC,120.06546571764787
+Cook Islands,FTC,0.0
+Costa Rica,FTC,6.660677019075078
+Cote d'Ivoire,FTC,0.0
+Croatia,FTC,0.0
+Cuba,FTC,25.68430700927844
+Curacao,FTC,0.0
+Cyprus,FTC,0.0
+Czech Republic,FTC,0.0
+Democratic People's Republic of Korea,FTC,0.0
+Democratic Republic of the Congo,FTC,0.0
+Denmark,FTC,0.0
+Djibouti,FTC,30.5347857841892
+Dominica,FTC,0.0
+Dominican Republic,FTC,0.0
+Ecuador,FTC,32.873491982588135
+Egypt,FTC,19.767161434209633
+El Salvador,FTC,132.56837282434424
+Equatorial Guinea,FTC,0.0
+Eritrea,FTC,268.4867923150814
+Estonia,FTC,0.0
+Ethiopia,FTC,0.0
+Fiji,FTC,8.90305016052035
+Finland,FTC,0.0
+France,FTC,0.0
+French Polynesia,FTC,0.0
+Gabon,FTC,59.32800327503817
+Gambia,FTC,0.0
+Georgia,FTC,0.0
+Germany,FTC,0.0
+Ghana,FTC,284.4219842422321
+Greece,FTC,0.0
+Greenland,FTC,0.0
+Grenada,FTC,0.0
+Guam,FTC,0.0
+Guatemala,FTC,0.0
+Guinea,FTC,0.0
+Guinea-Bissau,FTC,46.4674610056945
+Guyana,FTC,0.0
+Haiti,FTC,0.0
+Honduras,FTC,134.7327030215352
+Hungary,FTC,0.0
+Iceland,FTC,0.0
+India,FTC,0.0
+Indonesia,FTC,119.09054276858157
+Iran,FTC,0.0
+Iraq,FTC,0.0
+Ireland,FTC,0.0
+Israel,FTC,0.0
+Italy,FTC,0.0
+Jamaica,FTC,0.0
+Japan,FTC,0.0
+Jordan,FTC,0.0
+Kazakhstan,FTC,62.136622358866575
+Kenya,FTC,13883.043878768829
+Kiribati,FTC,0.05857207417914174
+Kuwait,FTC,0.0
+Kyrgyzstan,FTC,40.61990791861329
+Lao People's Democratic Republic,FTC,0.0
+Latvia,FTC,0.0
+Lebanon,FTC,6.571845786692689
+Lesotho,FTC,397.2961220391478
+Liberia,FTC,41.0330157816024
+Libya,FTC,0.0
+Lithuania,FTC,0.0
+Luxembourg,FTC,0.0
+Madagascar,FTC,64.17759011939306
+Malawi,FTC,10431.346876412972
+Malaysia,FTC,79.4190136025868
+Maldives,FTC,0.01744488206604644
+Mali,FTC,130.47040460395255
+Malta,FTC,0.0
+Marshall Islands,FTC,0.36510616769468696
+Mauritania,FTC,0.0
+Mauritius,FTC,0.0
+Mexico,FTC,1283.285014172625
+Micronesia (Federated States of),FTC,0.0
+Monaco,FTC,0.0
+Mongolia,FTC,0.0
+Montenegro,FTC,0.0
+Montserrat,FTC,0.0
+Morocco,FTC,60.19092332967731
+Mozambique,FTC,0.0
+Myanmar,FTC,1533.9000144836502
+Namibia,FTC,1475.3173625616978
+Nauru,FTC,0.0
+Nepal,FTC,40.723009701265994
+Netherlands,FTC,0.0
+New Caledonia,FTC,0.0
+New Zealand,FTC,0.0
+Nicaragua,FTC,0.0
+Niger,FTC,0.0
+Nigeria,FTC,3170.698126249364
+Niue,FTC,0.0
+Northern Mariana Islands,FTC,0.0
+Norway,FTC,0.0
+Oman,FTC,0.0
+Pakistan,FTC,0.0
+Palau,FTC,0.0
+Panama,FTC,0.0
+Papua New Guinea,FTC,0.0
+Paraguay,FTC,0.0
+Peru,FTC,0.0
+Philippines,FTC,264.1299542672093
+Poland,FTC,0.0
+Portugal,FTC,0.0
+Puerto Rico,FTC,7.475094462318797
+Qatar,FTC,0.0
+Republic of Korea,FTC,0.0
+Republic of Moldova,FTC,0.0
+Romania,FTC,0.0
+Russia,FTC,0.0
+Rwanda,FTC,870.171734635924
+Saint Kitts and Nevis,FTC,0.0
+Saint Lucia,FTC,8.725119467640054
+Saint Vincent and the Grenadines,FTC,1.629309567985392
+Samoa,FTC,0.20337979218199412
+San Marino,FTC,0.0
+Sao Tome and Principe,FTC,0.1684981330422195
+Saudi Arabia,FTC,0.0
+Senegal,FTC,0.0
+Serbia,FTC,0.0
+Seychelles,FTC,2.3895060162152677
+Sierra Leone,FTC,59.070594817800696
+Singapore,FTC,0.0
+Sint Maarten (Dutch part),FTC,0.0
+Slovakia,FTC,0.0
+Slovenia,FTC,0.0
+Solomon Islands,FTC,3.7907075054756416
+Somalia,FTC,53.61961318050064
+South Africa,FTC,0.0
+South Sudan,FTC,0.0
+Spain,FTC,0.0
+Sri Lanka,FTC,4.573784408750477
+Sudan,FTC,24.388484963812996
+Suriname,FTC,0.0
+Swaziland,FTC,0.0
+Sweden,FTC,0.0
+Switzerland,FTC,0.0
+Syrian Arab Republic,FTC,0.0
+Tajikistan,FTC,13.497008127128103
+Tanzania,FTC,0.0
+Thailand,FTC,3134.0577617608355
+The Former Yugoslav Republic of Macedonia,FTC,0.0
+Timor-Leste,FTC,1.1404196741174104
+Togo,FTC,187.1129063479092
+Tokelau,FTC,0.0
+Tonga,FTC,0.03505186774979852
+Trinidad and Tobago,FTC,38.53560618108192
+Tunisia,FTC,13.651700345285443
+Turkey,FTC,0.0
+Turkmenistan,FTC,0.0
+Turks and Caicos Islands,FTC,0.0
+Tuvalu,FTC,0.0
+Uganda,FTC,12631.199591579136
+Ukraine,FTC,798.4497989429308
+United Arab Emirates,FTC,7.72734863525121
+United Kingdom of Great Britain and Northern Ireland,FTC,0.0
+United States,FTC,212.50404875428637
+Uruguay,FTC,7.363518949813631
+US Virgin Islands,FTC,0.0
+Uzbekistan,FTC,39.18371098893007
+Vanuatu,FTC,4.696178197139376
+Venezuela,FTC,176.22981544713855
+Viet Nam,FTC,0.0
+Wallis and Futuna Islands,FTC,0.0
+West Bank and Gaza Strip,FTC,0.0
+Yemen,FTC,1.652592482451262
+Zambia,FTC,3075.1708057549167
+Zimbabwe,FTC,9741.310849552454
+Afghanistan,LPV/r,4.612259382938521
+Albania,LPV/r,0.0
+Algeria,LPV/r,15.754865045644234
+American Samoa,LPV/r,0.0
+Andorra,LPV/r,0.014843239182804282
+Angola,LPV/r,0.0
+Anguilla,LPV/r,0.0
+Antigua and Barbuda,LPV/r,0.06934054969314643
+Argentina,LPV/r,350.7388265300558
+Armenia,LPV/r,0.0
+Aruba,LPV/r,0.0
+Australia,LPV/r,2.3268123552179167
+Austria,LPV/r,0.0
+Azerbaijan,LPV/r,2.328492876948555
+Bahamas,LPV/r,0.0
+Bahrain,LPV/r,3.190680735233121
+Bangladesh,LPV/r,0.0
+Barbados,LPV/r,1.4351223089512788
+Belarus,LPV/r,11.515944222504938
+Belgium,LPV/r,0.0
+Belize,LPV/r,1.482417749431814
+Benin,LPV/r,46.003000490669734
+Bermuda,LPV/r,0.07360586707206912
+Bhutan,LPV/r,0.0867881096576311
+Bolivia,LPV/r,0.0
+"Bonaire, Saint Eustatius and Saba",LPV/r,0.0
+Bosnia and Herzegovina,LPV/r,0.0
+Botswana,LPV/r,223.1478707285914
+Brazil,LPV/r,2405.368228539971
+British Virgin Islands,LPV/r,0.0
+Brunei Darussalam,LPV/r,0.0
+Bulgaria,LPV/r,0.0
+Burkina Faso,LPV/r,0.0
+Burundi,LPV/r,242.99982619859543
+Cambodia,LPV/r,316.19961885796573
+Cameroon,LPV/r,3946.170010192176
+Canada,LPV/r,0.0
+Cape Verde,LPV/r,0.0
+Cayman Islands,LPV/r,0.0
+Central African Republic,LPV/r,0.0
+Chad,LPV/r,0.0
+Chile,LPV/r,9.572687350199857
+China,LPV/r,0.0
+"China, Hong Kong SAR",LPV/r,0.0
+"China, Macao SAR",LPV/r,0.0
+Colombia,LPV/r,0.0
+Comoros,LPV/r,0.0
+Congo,LPV/r,35.793787895953194
+Cook Islands,LPV/r,0.0
+Costa Rica,LPV/r,2.2963207770637735
+Cote d'Ivoire,LPV/r,0.0
+Croatia,LPV/r,0.0
+Cuba,LPV/r,8.761280268698922
+Curacao,LPV/r,0.0
+Cyprus,LPV/r,0.0
+Czech Republic,LPV/r,0.0
+Democratic People's Republic of Korea,LPV/r,0.0
+Democratic Republic of the Congo,LPV/r,0.0
+Denmark,LPV/r,0.0
+Djibouti,LPV/r,11.334526199533656
+Dominica,LPV/r,0.0
+Dominican Republic,LPV/r,0.0
+Ecuador,LPV/r,10.01757143947317
+Egypt,LPV/r,11.44554096612327
+El Salvador,LPV/r,44.387665806696724
+Equatorial Guinea,LPV/r,0.0
+Eritrea,LPV/r,130.35607995948638
+Estonia,LPV/r,0.0
+Ethiopia,LPV/r,0.0
+Fiji,LPV/r,2.6542585437427078
+Finland,LPV/r,0.0
+France,LPV/r,0.0
+French Polynesia,LPV/r,0.0
+Gabon,LPV/r,19.543790175880993
+Gambia,LPV/r,0.0
+Georgia,LPV/r,0.0
+Germany,LPV/r,0.0
+Ghana,LPV/r,132.4854330466613
+Greece,LPV/r,0.0
+Greenland,LPV/r,0.0
+Grenada,LPV/r,0.0
+Guam,LPV/r,0.0
+Guatemala,LPV/r,0.0
+Guinea,LPV/r,0.0
+Guinea-Bissau,LPV/r,13.852829648890724
+Guyana,LPV/r,0.0
+Haiti,LPV/r,0.0
+Honduras,LPV/r,71.47413148320415
+Hungary,LPV/r,0.0
+Iceland,LPV/r,0.0
+India,LPV/r,0.0
+Indonesia,LPV/r,55.14078350855939
+Iran,LPV/r,0.0
+Iraq,LPV/r,0.0
+Ireland,LPV/r,0.0
+Israel,LPV/r,0.0
+Italy,LPV/r,0.0
+Jamaica,LPV/r,0.0
+Japan,LPV/r,0.0
+Jordan,LPV/r,0.0
+Kazakhstan,LPV/r,30.75306970601427
+Kenya,LPV/r,11320.822603896675
+Kiribati,LPV/r,0.017448805443161807
+Kuwait,LPV/r,0.0
+Kyrgyzstan,LPV/r,13.923681276471513
+Lao People's Democratic Republic,LPV/r,0.0
+Latvia,LPV/r,0.0
+Lebanon,LPV/r,1.9566615251179047
+Lesotho,LPV/r,247.78307307755782
+Liberia,LPV/r,15.207026194640317
+Libya,LPV/r,0.0
+Lithuania,LPV/r,0.0
+Luxembourg,LPV/r,0.0
+Madagascar,LPV/r,24.737347848594766
+Malawi,LPV/r,7126.838206094597
+Malaysia,LPV/r,28.502640582953507
+Maldives,LPV/r,0.005275164619049805
+Mali,LPV/r,75.45674432288322
+Malta,LPV/r,0.0
+Marshall Islands,LPV/r,0.10876627770972255
+Mauritania,LPV/r,0.0
+Mauritius,LPV/r,0.0
+Mexico,LPV/r,476.3764696610684
+Micronesia (Federated States of),LPV/r,0.0
+Monaco,LPV/r,0.0
+Mongolia,LPV/r,0.0
+Montenegro,LPV/r,0.0
+Montserrat,LPV/r,0.0
+Morocco,LPV/r,27.98262659419291
+Mozambique,LPV/r,0.0
+Myanmar,LPV/r,519.6779789552468
+Namibia,LPV/r,851.6514447377347
+Nauru,LPV/r,0.0
+Nepal,LPV/r,17.925596981811374
+Netherlands,LPV/r,0.0
+New Caledonia,LPV/r,0.0
+New Zealand,LPV/r,0.0
+Nicaragua,LPV/r,0.0
+Niger,LPV/r,0.0
+Nigeria,LPV/r,947.6507346194996
+Niue,LPV/r,0.0
+Northern Mariana Islands,LPV/r,0.0
+Norway,LPV/r,0.0
+Oman,LPV/r,0.0
+Pakistan,LPV/r,0.0
+Palau,LPV/r,0.0
+Panama,LPV/r,0.0
+Papua New Guinea,LPV/r,0.0
+Paraguay,LPV/r,0.0
+Peru,LPV/r,0.0
+Philippines,LPV/r,104.68944658839051
+Poland,LPV/r,0.0
+Portugal,LPV/r,0.0
+Puerto Rico,LPV/r,2.2268541923807303
+Qatar,LPV/r,0.0
+Republic of Korea,LPV/r,0.0
+Republic of Moldova,LPV/r,0.0
+Romania,LPV/r,0.0
+Russia,LPV/r,0.0
+Rwanda,LPV/r,520.4848907329169
+Saint Kitts and Nevis,LPV/r,0.0
+Saint Lucia,LPV/r,2.3713610015639257
+Saint Vincent and the Grenadines,LPV/r,0.4428227238979644
+Samoa,LPV/r,0.060587480887232176
+San Marino,LPV/r,0.0
+Sao Tome and Principe,LPV/r,0.05023248274537623
+Saudi Arabia,LPV/r,0.0
+Senegal,LPV/r,0.0
+Serbia,LPV/r,0.0
+Seychelles,LPV/r,0.7123569713346958
+Sierra Leone,LPV/r,22.45510779206635
+Singapore,LPV/r,0.0
+Sint Maarten (Dutch part),LPV/r,0.0
+Slovakia,LPV/r,0.0
+Slovenia,LPV/r,0.0
+Solomon Islands,LPV/r,1.1292637094032119
+Somalia,LPV/r,29.336358999949866
+South Africa,LPV/r,0.0
+South Sudan,LPV/r,0.0
+Spain,LPV/r,0.0
+Sri Lanka,LPV/r,2.393573938960139
+Sudan,LPV/r,11.09416143904605
+Suriname,LPV/r,0.0
+Swaziland,LPV/r,0.0
+Sweden,LPV/r,0.0
+Switzerland,LPV/r,0.0
+Syrian Arab Republic,LPV/r,0.0
+Tajikistan,LPV/r,11.552500202063428
+Tanzania,LPV/r,0.0
+Thailand,LPV/r,906.186328939015
+The Former Yugoslav Republic of Macedonia,LPV/r,0.0
+Timor-Leste,LPV/r,0.34485194528665924
+Togo,LPV/r,87.2931134973533
+Tokelau,LPV/r,0.0
+Tonga,LPV/r,0.010442061841878144
+Trinidad and Tobago,LPV/r,13.308186103303647
+Tunisia,LPV/r,4.116917362187626
+Turkey,LPV/r,0.0
+Turkmenistan,LPV/r,0.0
+Turks and Caicos Islands,LPV/r,0.0
+Tuvalu,LPV/r,0.0
+Uganda,LPV/r,6813.695694838383
+Ukraine,LPV/r,262.3476357499139
+United Arab Emirates,LPV/r,2.3020015052838265
+United Kingdom of Great Britain and Northern Ireland,LPV/r,0.0
+United States,LPV/r,63.30562566824991
+Uruguay,LPV/r,2.338590898704486
+US Virgin Islands,LPV/r,0.0
+Uzbekistan,LPV/r,12.460055752199104
+Vanuatu,LPV/r,1.3990062813497588
+Venezuela,LPV/r,47.896709404849666
+Viet Nam,LPV/r,0.0
+Wallis and Futuna Islands,LPV/r,0.0
+West Bank and Gaza Strip,LPV/r,0.0
+Yemen,LPV/r,0.9292961353266729
+Zambia,LPV/r,2842.695600828629
+Zimbabwe,LPV/r,6523.241701782575
+Afghanistan,NVP,16.42590131520838
+Albania,NVP,0.0
+Algeria,NVP,77.09206589122661
+American Samoa,NVP,0.0
+Andorra,NVP,0.07224947995309407
+Angola,NVP,0.0
+Anguilla,NVP,0.0
+Antigua and Barbuda,NVP,0.3375151874393646
+Argentina,NVP,1618.6119183202238
+Armenia,NVP,0.0
+Aruba,NVP,0.0
+Australia,NVP,11.58183295108846
+Austria,NVP,0.0
+Azerbaijan,NVP,10.845178621324255
+Bahamas,NVP,0.0
+Bahrain,NVP,15.53064132281917
+Bangladesh,NVP,0.0
+Barbados,NVP,7.033786497418358
+Belarus,NVP,54.47743979339188
+Belgium,NVP,0.0
+Belize,NVP,6.43567381028717
+Benin,NVP,180.4719300226955
+Bermuda,NVP,0.35827662358323975
+Bhutan,NVP,0.4173974704479967
+Bolivia,NVP,0.0
+"Bonaire, Saint Eustatius and Saba",NVP,0.0
+Bosnia and Herzegovina,NVP,0.0
+Botswana,NVP,1013.5327798484224
+Brazil,NVP,11107.31619733938
+British Virgin Islands,NVP,0.0
+Brunei Darussalam,NVP,0.0
+Bulgaria,NVP,0.0
+Burkina Faso,NVP,0.0
+Burundi,NVP,1002.3779313472023
+Cambodia,NVP,1605.4102444227703
+Cameroon,NVP,16660.732678946748
+Canada,NVP,0.0
+Cape Verde,NVP,0.0
+Cayman Islands,NVP,0.0
+Central African Republic,NVP,0.0
+Chad,NVP,0.0
+Chile,NVP,49.323818120795714
+China,NVP,0.0
+"China, Hong Kong SAR",NVP,0.0
+"China, Macao SAR",NVP,0.0
+Colombia,NVP,0.0
+Comoros,NVP,0.0
+Congo,NVP,174.12509306337202
+Cook Islands,NVP,0.0
+Costa Rica,NVP,10.632478709638697
+Cote d'Ivoire,NVP,0.0
+Croatia,NVP,0.0
+Cuba,NVP,41.540157812247166
+Curacao,NVP,0.0
+Cyprus,NVP,0.0
+Czech Republic,NVP,0.0
+Democratic People's Republic of Korea,NVP,0.0
+Democratic Republic of the Congo,NVP,0.0
+Denmark,NVP,0.0
+Djibouti,NVP,49.62379349505795
+Dominica,NVP,0.0
+Dominican Republic,NVP,0.0
+Ecuador,NVP,48.86243630223961
+Egypt,NVP,42.99911820177223
+El Salvador,NVP,208.93783024115743
+Equatorial Guinea,NVP,0.0
+Eritrea,NVP,528.88196580287
+Estonia,NVP,0.0
+Ethiopia,NVP,0.0
+Fiji,NVP,12.911746929816944
+Finland,NVP,0.0
+France,NVP,0.0
+French Polynesia,NVP,0.0
+Gabon,NVP,92.21420550487319
+Gambia,NVP,0.0
+Georgia,NVP,0.0
+Germany,NVP,0.0
+Ghana,NVP,537.2434746909846
+Greece,NVP,0.0
+Greenland,NVP,0.0
+Grenada,NVP,0.0
+Guam,NVP,0.0
+Guatemala,NVP,0.0
+Guinea,NVP,0.0
+Guinea-Bissau,NVP,67.38949392044782
+Guyana,NVP,0.0
+Haiti,NVP,0.0
+Honduras,NVP,290.4948370797113
+Hungary,NVP,0.0
+Iceland,NVP,0.0
+India,NVP,0.0
+Indonesia,NVP,220.76211560298435
+Iran,NVP,0.0
+Iraq,NVP,0.0
+Ireland,NVP,0.0
+Israel,NVP,0.0
+Italy,NVP,0.0
+Jamaica,NVP,0.0
+Japan,NVP,0.0
+Jordan,NVP,0.0
+Kazakhstan,NVP,128.6057877435541
+Kenya,NVP,41734.30955173677
+Kiribati,NVP,0.08493207604790372
+Kuwait,NVP,0.0
+Kyrgyzstan,NVP,64.18738586839567
+Lao People's Democratic Republic,NVP,0.0
+Latvia,NVP,0.0
+Lebanon,NVP,9.528394643951614
+Lesotho,NVP,943.6423326375086
+Liberia,NVP,66.74291820765526
+Libya,NVP,0.0
+Lithuania,NVP,0.0
+Luxembourg,NVP,0.0
+Madagascar,NVP,105.62190238017496
+Malawi,NVP,26852.92081316125
+Malaysia,NVP,130.0009723338736
+Maldives,NVP,0.02537029988179441
+Mali,NVP,283.4841222088409
+Malta,NVP,0.0
+Marshall Islands,NVP,0.5294199537028967
+Mauritania,NVP,0.0
+Mauritius,NVP,0.0
+Mexico,NVP,2186.680866152845
+Micronesia (Federated States of),NVP,0.0
+Monaco,NVP,0.0
+Mongolia,NVP,0.0
+Montenegro,NVP,0.0
+Montserrat,NVP,0.0
+Morocco,NVP,119.33709751387742
+Mozambique,NVP,0.0
+Myanmar,NVP,2423.6324210631346
+Namibia,NVP,3496.187080006966
+Nauru,NVP,0.0
+Nepal,NVP,75.33175548552032
+Netherlands,NVP,0.0
+New Caledonia,NVP,0.0
+New Zealand,NVP,0.0
+Nicaragua,NVP,0.0
+Niger,NVP,0.0
+Nigeria,NVP,4600.6157191612565
+Niue,NVP,0.0
+Northern Mariana Islands,NVP,0.0
+Norway,NVP,0.0
+Oman,NVP,0.0
+Pakistan,NVP,0.0
+Palau,NVP,0.0
+Panama,NVP,0.0
+Papua New Guinea,NVP,0.0
+Paraguay,NVP,0.0
+Peru,NVP,0.0
+Philippines,NVP,446.9414811796405
+Poland,NVP,0.0
+Portugal,NVP,0.0
+Puerto Rico,NVP,10.839214766360644
+Qatar,NVP,0.0
+Republic of Korea,NVP,0.0
+Republic of Moldova,NVP,0.0
+Romania,NVP,0.0
+Russia,NVP,0.0
+Rwanda,NVP,2070.9536661837506
+Saint Kitts and Nevis,NVP,0.0
+Saint Lucia,NVP,12.417797133219066
+Saint Vincent and the Grenadines,NVP,2.318872051837682
+Samoa,NVP,0.29490961722436804
+San Marino,NVP,0.0
+Sao Tome and Principe,NVP,0.24436462992595878
+Saudi Arabia,NVP,0.0
+Senegal,NVP,0.0
+Serbia,NVP,0.0
+Seychelles,NVP,3.465384113258923
+Sierra Leone,NVP,97.66524987504498
+Singapore,NVP,0.0
+Sint Maarten (Dutch part),NVP,0.0
+Slovakia,NVP,0.0
+Slovenia,NVP,0.0
+Solomon Islands,NVP,5.496692112110108
+Somalia,NVP,110.01547434433584
+South Africa,NVP,0.0
+South Sudan,NVP,0.0
+Spain,NVP,0.0
+Sri Lanka,NVP,9.410570455965036
+Sudan,NVP,44.583028758728105
+Suriname,NVP,0.0
+Swaziland,NVP,0.0
+Sweden,NVP,0.0
+Switzerland,NVP,0.0
+Syrian Arab Republic,NVP,0.0
+Tajikistan,NVP,43.3771865259908
+Tanzania,NVP,0.0
+Thailand,NVP,4536.341961499311
+The Former Yugoslav Republic of Macedonia,NVP,0.0
+Timor-Leste,NVP,1.6585259226125588
+Togo,NVP,356.1473928532698
+Tokelau,NVP,0.0
+Tonga,NVP,0.05082674532306575
+Trinidad and Tobago,NVP,62.577378429458406
+Tunisia,NVP,19.843249550293017
+Turkey,NVP,0.0
+Turkmenistan,NVP,0.0
+Turks and Caicos Islands,NVP,0.0
+Tuvalu,NVP,0.0
+Uganda,NVP,27316.298412932083
+Ukraine,NVP,1225.1050209875218
+United Arab Emirates,NVP,11.204994378900405
+United Kingdom of Great Britain and Northern Ireland,NVP,0.0
+United States,NVP,308.1401893688402
+Uruguay,NVP,11.292571582435842
+US Virgin Islands,NVP,0.0
+Uzbekistan,NVP,58.99905488526281
+Vanuatu,NVP,6.80966432149993
+Venezuela,NVP,250.81445648550084
+Viet Nam,NVP,0.0
+Wallis and Futuna Islands,NVP,0.0
+West Bank and Gaza Strip,NVP,0.0
+Yemen,NVP,3.5308737709103135
+Zambia,NVP,10049.21406270462
+Zimbabwe,NVP,25328.335783471077
+Afghanistan,TDF,23.749158708573933
+Albania,TDF,0.0
+Algeria,TDF,164.99281912085982
+American Samoa,TDF,0.0
+Andorra,TDF,0.16528726545888048
+Angola,TDF,0.0
+Anguilla,TDF,0.0
+Antigua and Barbuda,TDF,0.7721434454464194
+Argentina,TDF,3192.0176709236484
+Armenia,TDF,0.0
+Aruba,TDF,0.0
+Australia,TDF,25.567094518926684
+Austria,TDF,0.0
+Azerbaijan,TDF,23.237267940288113
+Bahamas,TDF,0.0
+Bahrain,TDF,35.529906052445426
+Bangladesh,TDF,0.0
+Barbados,TDF,16.13411663847565
+Belarus,TDF,121.22998247749712
+Belgium,TDF,0.0
+Belize,TDF,11.68234495922556
+Benin,TDF,289.0146730289758
+Bermuda,TDF,0.8196399950333253
+Bhutan,TDF,0.9506391157242231
+Bolivia,TDF,0.0
+"Bonaire, Saint Eustatius and Saba",TDF,0.0
+Bosnia and Herzegovina,TDF,0.0
+Botswana,TDF,1889.8372748041102
+Brazil,TDF,22729.252849050714
+British Virgin Islands,TDF,0.0
+Brunei Darussalam,TDF,0.0
+Bulgaria,TDF,0.0
+Burkina Faso,TDF,0.0
+Burundi,TDF,1790.8242059365202
+Cambodia,TDF,3736.778154795114
+Cameroon,TDF,32035.348140586662
+Canada,TDF,0.0
+Cape Verde,TDF,0.0
+Cayman Islands,TDF,0.0
+Central African Republic,TDF,0.0
+Chad,TDF,0.0
+Chile,TDF,115.57494407234691
+China,TDF,0.0
+"China, Hong Kong SAR",TDF,0.0
+"China, Macao SAR",TDF,0.0
+Colombia,TDF,0.0
+Comoros,TDF,0.0
+Congo,TDF,398.2633085638127
+Cook Islands,TDF,0.0
+Costa Rica,TDF,22.23095201920125
+Cote d'Ivoire,TDF,0.0
+Croatia,TDF,0.0
+Cuba,TDF,85.93616343496439
+Curacao,TDF,0.0
+Cyprus,TDF,0.0
+Czech Republic,TDF,0.0
+Democratic People's Republic of Korea,TDF,0.0
+Democratic Republic of the Congo,TDF,0.0
+Denmark,TDF,0.0
+Djibouti,TDF,101.47129969464936
+Dominica,TDF,0.0
+Dominican Republic,TDF,0.0
+Ecuador,TDF,109.40675553229383
+Egypt,TDF,66.37511209914167
+El Salvador,TDF,442.01139998527026
+Equatorial Guinea,TDF,0.0
+Eritrea,TDF,903.9210812409169
+Estonia,TDF,0.0
+Ethiopia,TDF,0.0
+Fiji,TDF,29.531766352802528
+Finland,TDF,0.0
+France,TDF,0.0
+French Polynesia,TDF,0.0
+Gabon,TDF,197.930268423914
+Gambia,TDF,0.0
+Georgia,TDF,0.0
+Germany,TDF,0.0
+Ghana,TDF,951.6056819547375
+Greece,TDF,0.0
+Greenland,TDF,0.0
+Grenada,TDF,0.0
+Guam,TDF,0.0
+Guatemala,TDF,0.0
+Guinea,TDF,0.0
+Guinea-Bissau,TDF,154.13495171216164
+Guyana,TDF,0.0
+Haiti,TDF,0.0
+Honduras,TDF,453.58459000336217
+Hungary,TDF,0.0
+Iceland,TDF,0.0
+India,TDF,0.0
+Indonesia,TDF,396.930529763781
+Iran,TDF,0.0
+Iraq,TDF,0.0
+Ireland,TDF,0.0
+Israel,TDF,0.0
+Italy,TDF,0.0
+Jamaica,TDF,0.0
+Japan,TDF,0.0
+Jordan,TDF,0.0
+Kazakhstan,TDF,207.88662327425524
+Kenya,TDF,47478.86518243791
+Kiribati,TDF,0.19430161447276284
+Kuwait,TDF,0.0
+Kyrgyzstan,TDF,134.7574889798713
+Lao People's Democratic Republic,TDF,0.0
+Latvia,TDF,0.0
+Lebanon,TDF,21.80216694058426
+Lesotho,TDF,1341.5349600350226
+Liberia,TDF,136.42196878997703
+Libya,TDF,0.0
+Lithuania,TDF,0.0
+Luxembourg,TDF,0.0
+Madagascar,TDF,212.88733666858394
+Malawi,TDF,35459.822388426066
+Malaysia,TDF,263.9218556221037
+Maldives,TDF,0.05778185339600004
+Mali,TDF,438.69156629421155
+Malta,TDF,0.0
+Marshall Islands,TDF,1.2111696372587035
+Mauritania,TDF,0.0
+Mauritius,TDF,0.0
+Mexico,TDF,4290.584644670364
+Micronesia (Federated States of),TDF,0.0
+Monaco,TDF,0.0
+Mongolia,TDF,0.0
+Montenegro,TDF,0.0
+Montserrat,TDF,0.0
+Morocco,TDF,201.37373045320552
+Mozambique,TDF,0.0
+Myanmar,TDF,5107.555767378622
+Namibia,TDF,4994.039501493343
+Nauru,TDF,0.0
+Nepal,TDF,135.95621141247838
+Netherlands,TDF,0.0
+New Caledonia,TDF,0.0
+New Zealand,TDF,0.0
+Nicaragua,TDF,0.0
+Niger,TDF,0.0
+Nigeria,TDF,10514.541105799832
+Niue,TDF,0.0
+Northern Mariana Islands,TDF,0.0
+Norway,TDF,0.0
+Oman,TDF,0.0
+Pakistan,TDF,0.0
+Palau,TDF,0.0
+Panama,TDF,0.0
+Papua New Guinea,TDF,0.0
+Paraguay,TDF,0.0
+Peru,TDF,0.0
+Philippines,TDF,879.5024513215229
+Poland,TDF,0.0
+Portugal,TDF,0.0
+Puerto Rico,TDF,24.79719119938863
+Qatar,TDF,0.0
+Republic of Korea,TDF,0.0
+Republic of Moldova,TDF,0.0
+Romania,TDF,0.0
+Russia,TDF,0.0
+Rwanda,TDF,2957.0163848571424
+Saint Kitts and Nevis,TDF,0.0
+Saint Lucia,TDF,29.32286424216822
+Saint Vincent and the Grenadines,TDF,5.475687003220337
+Samoa,TDF,0.6746734263026826
+San Marino,TDF,0.0
+Sao Tome and Principe,TDF,0.5589169504412805
+Saudi Arabia,TDF,0.0
+Senegal,TDF,0.0
+Serbia,TDF,0.0
+Seychelles,TDF,7.9261140259013665
+Sierra Leone,TDF,196.55687905518636
+Singapore,TDF,0.0
+Sint Maarten (Dutch part),TDF,0.0
+Slovakia,TDF,0.0
+Slovenia,TDF,0.0
+Solomon Islands,TDF,12.574944606797414
+Somalia,TDF,179.50880621829992
+South Africa,TDF,0.0
+South Sudan,TDF,0.0
+Spain,TDF,0.0
+Sri Lanka,TDF,15.311123485869947
+Sudan,TDF,81.24256203480898
+Suriname,TDF,0.0
+Swaziland,TDF,0.0
+Sweden,TDF,0.0
+Switzerland,TDF,0.0
+Syrian Arab Republic,TDF,0.0
+Tajikistan,TDF,45.93105323282386
+Tanzania,TDF,0.0
+Thailand,TDF,10447.959504582383
+The Former Yugoslav Republic of Macedonia,TDF,0.0
+Timor-Leste,TDF,3.777357861766293
+Togo,TDF,626.7847897212314
+Tokelau,TDF,0.0
+Tonga,TDF,0.11627784382778399
+Trinidad and Tobago,TDF,128.74494419616994
+Tunisia,TDF,45.229927488492855
+Turkey,TDF,0.0
+Turkmenistan,TDF,0.0
+Turks and Caicos Islands,TDF,0.0
+Tuvalu,TDF,0.0
+Uganda,TDF,42585.21805723241
+Ukraine,TDF,2649.1144483466173
+United Arab Emirates,TDF,25.633996003472433
+United Kingdom of Great Britain and Northern Ireland,TDF,0.0
+United States,TDF,704.9413962816498
+Uruguay,TDF,24.55642249205089
+US Virgin Islands,TDF,0.0
+Uzbekistan,TDF,129.92540558283167
+Vanuatu,TDF,15.578669841282714
+Venezuela,TDF,592.2627160515559
+Viet Nam,TDF,0.0
+Wallis and Futuna Islands,TDF,0.0
+West Bank and Gaza Strip,TDF,0.0
+Yemen,TDF,5.540475102830312
+Zambia,TDF,10586.870021835273
+Zimbabwe,TDF,33087.551831086865
+Afghanistan,ATV/r,0.41262828341289814
+Albania,ATV/r,0.0
+Algeria,ATV/r,2.5134754857124357
+American Samoa,ATV/r,0.0
+Andorra,ATV/r,0.002776754104906053
+Angola,ATV/r,0.0
+Anguilla,ATV/r,0.0
+Antigua and Barbuda,ATV/r,0.012971673744902245
+Argentina,ATV/r,50.9278503323779
+Armenia,ATV/r,0.0
+Aruba,ATV/r,0.0
+Australia,ATV/r,0.3883414316486215
+Austria,ATV/r,0.0
+Azerbaijan,ATV/r,0.3955959245345267
+Bahamas,ATV/r,0.0
+Bahrain,ATV/r,0.5968869543830523
+Bangladesh,ATV/r,0.0
+Barbados,ATV/r,0.2681005105465547
+Belarus,ATV/r,2.0934009613982285
+Belgium,ATV/r,0.0
+Belize,ATV/r,0.19169084745075193
+Benin,ATV/r,4.683174990167928
+Bermuda,ATV/r,0.01376959510120374
+Bhutan,ATV/r,0.016275195042368483
+Bolivia,ATV/r,0.0
+"Bonaire, Saint Eustatius and Saba",ATV/r,0.0
+Bosnia and Herzegovina,ATV/r,0.0
+Botswana,ATV/r,29.300532811773316
+Brazil,ATV/r,368.483404861528
+British Virgin Islands,ATV/r,0.0
+Brunei Darussalam,ATV/r,0.0
+Bulgaria,ATV/r,0.0
+Burkina Faso,ATV/r,0.0
+Burundi,ATV/r,28.74689879562379
+Cambodia,ATV/r,58.66457180204356
+Cameroon,ATV/r,543.1106059907389
+Canada,ATV/r,0.0
+Cape Verde,ATV/r,0.0
+Cayman Islands,ATV/r,0.0
+Central African Republic,ATV/r,0.0
+Chad,ATV/r,0.0
+Chile,ATV/r,1.7710694528949482
+China,ATV/r,0.0
+"China, Hong Kong SAR",ATV/r,0.0
+"China, Macao SAR",ATV/r,0.0
+Colombia,ATV/r,0.0
+Comoros,ATV/r,0.0
+Congo,ATV/r,6.6967978593272734
+Cook Islands,ATV/r,0.0
+Costa Rica,ATV/r,0.3594649661613291
+Cote d'Ivoire,ATV/r,0.0
+Croatia,ATV/r,0.0
+Cuba,ATV/r,1.357461268088353
+Curacao,ATV/r,0.0
+Cyprus,ATV/r,0.0
+Czech Republic,ATV/r,0.0
+Democratic People's Republic of Korea,ATV/r,0.0
+Democratic Republic of the Congo,ATV/r,0.0
+Denmark,ATV/r,0.0
+Djibouti,ATV/r,1.738274442364071
+Dominica,ATV/r,0.0
+Dominican Republic,ATV/r,0.0
+Ecuador,ATV/r,1.7853216783931458
+Egypt,ATV/r,1.1312298599580262
+El Salvador,ATV/r,7.183477459047341
+Equatorial Guinea,ATV/r,0.0
+Eritrea,ATV/r,14.3377591878944
+Estonia,ATV/r,0.0
+Ethiopia,ATV/r,0.0
+Fiji,ATV/r,0.49659821485923594
+Finland,ATV/r,0.0
+France,ATV/r,0.0
+French Polynesia,ATV/r,0.0
+Gabon,ATV/r,3.1923259639659376
+Gambia,ATV/r,0.0
+Georgia,ATV/r,0.0
+Germany,ATV/r,0.0
+Ghana,ATV/r,15.894880645483015
+Greece,ATV/r,0.0
+Greenland,ATV/r,0.0
+Grenada,ATV/r,0.0
+Guam,ATV/r,0.0
+Guatemala,ATV/r,0.0
+Guinea,ATV/r,0.0
+Guinea-Bissau,ATV/r,2.5917793391407233
+Guyana,ATV/r,0.0
+Haiti,ATV/r,0.0
+Honduras,ATV/r,7.327483094460771
+Hungary,ATV/r,0.0
+Iceland,ATV/r,0.0
+India,ATV/r,0.0
+Indonesia,ATV/r,6.922848001541239
+Iran,ATV/r,0.0
+Iraq,ATV/r,0.0
+Ireland,ATV/r,0.0
+Israel,ATV/r,0.0
+Italy,ATV/r,0.0
+Jamaica,ATV/r,0.0
+Japan,ATV/r,0.0
+Jordan,ATV/r,0.0
+Kazakhstan,ATV/r,3.519502832186295
+Kenya,ATV/r,747.3447734892212
+Kiribati,ATV/r,0.0032641825374704328
+Kuwait,ATV/r,0.0
+Kyrgyzstan,ATV/r,2.3155150641283155
+Lao People's Democratic Republic,ATV/r,0.0
+Latvia,ATV/r,0.0
+Lebanon,ATV/r,0.3660029732890661
+Lesotho,ATV/r,21.96914079179574
+Liberia,ATV/r,2.323789962590416
+Libya,ATV/r,0.0
+Lithuania,ATV/r,0.0
+Luxembourg,ATV/r,0.0
+Madagascar,ATV/r,3.761748829596821
+Malawi,ATV/r,558.8448895277793
+Malaysia,ATV/r,4.4866812312756865
+Maldives,ATV/r,0.0009892407311822122
+Mali,ATV/r,7.359429084586413
+Malta,ATV/r,0.0
+Marshall Islands,ATV/r,0.02034712264528536
+Mauritania,ATV/r,0.0
+Mauritius,ATV/r,0.0
+Mexico,ATV/r,69.0236897713102
+Micronesia (Federated States of),ATV/r,0.0
+Monaco,ATV/r,0.0
+Mongolia,ATV/r,0.0
+Montenegro,ATV/r,0.0
+Montserrat,ATV/r,0.0
+Morocco,ATV/r,3.3578644520777807
+Mozambique,ATV/r,0.0
+Myanmar,ATV/r,84.21875940427338
+Namibia,ATV/r,78.19938055368652
+Nauru,ATV/r,0.0
+Nepal,ATV/r,2.292410147023937
+Netherlands,ATV/r,0.0
+New Caledonia,ATV/r,0.0
+New Zealand,ATV/r,0.0
+Nicaragua,ATV/r,0.0
+Niger,ATV/r,0.0
+Nigeria,ATV/r,177.37257265462952
+Niue,ATV/r,0.0
+Northern Mariana Islands,ATV/r,0.0
+Norway,ATV/r,0.0
+Oman,ATV/r,0.0
+Pakistan,ATV/r,0.0
+Palau,ATV/r,0.0
+Panama,ATV/r,0.0
+Papua New Guinea,ATV/r,0.0
+Paraguay,ATV/r,0.0
+Peru,ATV/r,0.0
+Philippines,ATV/r,14.931272792694536
+Poland,ATV/r,0.0
+Portugal,ATV/r,0.0
+Puerto Rico,ATV/r,0.4165820171437966
+Qatar,ATV/r,0.0
+Republic of Korea,ATV/r,0.0
+Republic of Moldova,ATV/r,0.0
+Romania,ATV/r,0.0
+Russia,ATV/r,0.0
+Rwanda,ATV/r,45.22083944176027
+Saint Kitts and Nevis,ATV/r,0.0
+Saint Lucia,ATV/r,0.4374139201162607
+Saint Vincent and the Grenadines,ATV/r,0.08168171081881882
+Samoa,ATV/r,0.011334219855086557
+San Marino,ATV/r,0.0
+Sao Tome and Principe,ATV/r,0.009398188978930681
+Saudi Arabia,ATV/r,0.0
+Senegal,ATV/r,0.0
+Serbia,ATV/r,0.0
+Seychelles,ATV/r,0.13327761383003559
+Sierra Leone,ATV/r,3.3336786487753987
+Singapore,ATV/r,0.0
+Sint Maarten (Dutch part),ATV/r,0.0
+Slovakia,ATV/r,0.0
+Slovenia,ATV/r,0.0
+Solomon Islands,ATV/r,0.21125359512089936
+Somalia,ATV/r,3.118358944219599
+South Africa,ATV/r,0.0
+South Sudan,ATV/r,0.0
+Spain,ATV/r,0.0
+Sri Lanka,ATV/r,0.2619924744017031
+Sudan,ATV/r,1.4199522675674925
+Suriname,ATV/r,0.0
+Swaziland,ATV/r,0.0
+Sweden,ATV/r,0.0
+Switzerland,ATV/r,0.0
+Syrian Arab Republic,ATV/r,0.0
+Tajikistan,ATV/r,0.7756222972859239
+Tanzania,ATV/r,0.0
+Thailand,ATV/r,166.86716073725282
+The Former Yugoslav Republic of Macedonia,ATV/r,0.0
+Timor-Leste,ATV/r,0.0646693734017407
+Togo,ATV/r,10.341303640200834
+Tokelau,ATV/r,0.0
+Tonga,ATV/r,0.001953417156863471
+Trinidad and Tobago,ATV/r,2.0631877159551064
+Tunisia,ATV/r,0.7716924180552335
+Turkey,ATV/r,0.0
+Turkmenistan,ATV/r,0.0
+Turks and Caicos Islands,ATV/r,0.0
+Tuvalu,ATV/r,0.0
+Uganda,ATV/r,681.5343655048118
+Ukraine,ATV/r,45.13048270604201
+United Arab Emirates,ATV/r,0.4306399735646613
+United Kingdom of Great Britain and Northern Ireland,ATV/r,0.0
+United States,ATV/r,11.842708574123284
+Uruguay,ATV/r,0.3954587919117732
+US Virgin Islands,ATV/r,0.0
+Uzbekistan,ATV/r,2.215965276500383
+Vanuatu,ATV/r,0.261714871443133
+Venezuela,ATV/r,8.83487896091214
+Viet Nam,ATV/r,0.0
+Wallis and Futuna Islands,ATV/r,0.0
+West Bank and Gaza Strip,ATV/r,0.0
+Yemen,ATV/r,0.09528880795617685
+Zambia,ATV/r,164.16042481736235
+Zimbabwe,ATV/r,521.8486973155048
